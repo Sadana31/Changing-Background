@@ -1,2 +1,2 @@
-# Changing-Background
-The background of the canvas changes with the mouse position, coded with Visual Studio code
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
